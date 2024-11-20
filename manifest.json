@@ -2,7 +2,7 @@
     "name": "PWA Push Notifications",
     "short_name": "PWA Push",
     "description": "Una PWA para enviar y recibir notificaciones push.",
-    "start_url": "/",
+    "start_url": "./",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
